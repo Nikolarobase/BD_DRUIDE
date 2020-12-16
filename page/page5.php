@@ -4,7 +4,7 @@
 
     <div class="divp5"><div class="zoome">
     <p>
-      <img class="bd1" src="../image/schtroumpfs-les-lombard-docteur-schtroumpf.jpg" alt="LES SCHTROUMPFS LOMBARD: DOCTEUR SCHTROUMPF"  title="DOCTEUR SCHTROUMPF"/>
+      <img class="bd1" src="../image/9782803612161.jpg" alt="LES SCHTROUMPFS LOMBARD: DOCTEUR SCHTROUMPF"  title="DOCTEUR SCHTROUMPF"/>
     </p>
   </div>
       <ul class="livre1" >

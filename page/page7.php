@@ -3,7 +3,7 @@
       <div class=divb>
     <div class="divp7"><div class="zoome">
       <p>
-    <img class="bd1" src="../image/tuniquebleu.jpg" height="400" width="275" alt="Les Tuniques Bleues: tome 46"   title="Requiem pour un bleu (Les Tuniques Bleues)">
+    <img class="bd1" src="../image/9782800186887.jpg" height="400" width="275" alt="Les Tuniques Bleues: tome 46"   title="Requiem pour un bleu (Les Tuniques Bleues)">
   </div>
   </p>
    <ul class="livre1" >

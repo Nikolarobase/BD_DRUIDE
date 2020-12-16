@@ -4,7 +4,7 @@
 
     <div class="divp2"><div class="zoome">
       <p>
-  <img class="bd1" src="../image/Luchy-luke.jpg"  alt="Lucky Luke : Daisy Town"  title="Lucky Luke Daisy Town"/>
+  <img class="bd1" src="../image/9782884710367.jpg"  alt="Lucky Luke : Daisy Town"  title="Lucky Luke Daisy Town"/>
    </div>
  </p>
       <ul class="livre1" >

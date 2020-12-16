@@ -4,7 +4,7 @@
 
     <div class="divp3"><div class="zoome">
       <p>
-  <img class="bd1" src="../image/tintin_en_amerique.jpg"height="400" width="275"  alt="Tintin en Amérique (1932)" title="Tintin en Amérique"/>
+  <img class="bd1" src="../image/220300102X.jpg"height="400" width="275"  alt="Tintin en Amérique (1932)" title="Tintin en Amérique"/>
 </p>
 </div>
   <ul>

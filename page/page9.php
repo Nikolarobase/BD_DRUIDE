@@ -3,7 +3,7 @@
     <div class=divb>
       <div class="divp9"><div class="zoome">
         <p>
-      <img class="bd1" src="../image/Malgernous.jpg" height="400" width="275" alt="Malgré nous, Tome 1  Elsaß"   title="Malgré nous, Tome 1  Elsaß">
+      <img class="bd1" src="../image/9782302007314.jpg" height="400" width="275" alt="Malgré nous, Tome 1  Elsaß"   title="Malgré nous, Tome 1  Elsaß">
     </div>
     </p>
       <ul class="livre1" >

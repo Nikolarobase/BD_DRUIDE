@@ -3,7 +3,7 @@
   <div class=divb>
     <div class="divp1"><div class="zoome">
     <p>
-    <img class="bd1" src="../image/asterix.png" alt="Astérix aux jeux olympique (1968)"   title="Astérix aux Jeux Olympiques(1968)"/>
+    <img class="bd1" src="../image/9782012101449.png" alt="Astérix aux jeux olympique (1968)"   title="Astérix aux Jeux Olympiques(1968)"/>
 
  </div>
     <ul class="livre1" >

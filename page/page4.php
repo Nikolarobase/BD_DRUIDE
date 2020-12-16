@@ -4,7 +4,7 @@
 
   <div class="divp4"><div class="zoome">
      <p>
-      <img class="bd1" src="../image/tel_boule_tel_bill.jpg"  alt="Boule & Bill: Tel Boule, tel Bill"  title="Tel Boule, tel Bill !">
+      <img class="bd1" src="../image/9782800141879.jpg"  alt="Boule & Bill: Tel Boule, tel Bill"  title="Tel Boule, tel Bill !">
        </p>
         </div>
   <ul class="livre1" >

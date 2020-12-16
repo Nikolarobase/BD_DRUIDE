@@ -3,7 +3,7 @@
     <div class=divb>
       <div class="divp8"><div class="zoome">
         <p>
-      <img class="bd1" src="../image/Paddle-my-name-is-Kid-Paddle.jpg" height="400" width="275" alt="Paddle my name is Kid Paddle"   title="Paddle my name is Kid Paddle">
+      <img class="bd1" src="../image/9782800132594.jpg" height="400" width="275" alt="Paddle my name is Kid Paddle"   title="Paddle my name is Kid Paddle">
     </div>
      </p>
       <ul class="livre1" >

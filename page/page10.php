@@ -3,7 +3,7 @@
     <div class=divb>
       <div class="divp10"><div class="zoome">
         <p>
-      <img class="bd1" src="../image/arabedufutur.jpg" height="400" width="275" alt="Arabe du futur tome 1"   title="Arabe du futur tome 1">
+      <img class="bd1" src="../image/9782370730145.jpg" height="400" width="275" alt="Arabe du futur tome 1"   title="Arabe du futur tome 1">
     </div>
     </p>
     <ul class="livre1" >
