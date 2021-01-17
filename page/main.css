@@ -1,0 +1,230 @@
+@media (min-width:1275px){
+
+.divb{
+  background-color: snow;
+  width: auto;
+  height: 1000px;
+  border-radius: 15px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 52px;
+}
+.divp1{
+  position: relative;
+  float: right;
+  background: linear-gradient(white,#537FA4,#925893);
+  width: 80%;
+  right: 10%;
+  padding: 2px;
+  margin: 30px ;
+}
+.divp2{
+  position: relative;
+  float: right;
+  background: linear-gradient(#E77C29,#E0B2A5);
+  width: 80%;
+  right: 10%;
+  padding: 2px;
+  margin: 30px;
+}
+.divp3{
+  position: relative;
+  float: right;
+  background: linear-gradient(#8ec8ee,#b1d689);
+  width: 80%;
+  right: 10%;
+  padding: 2px;
+  margin: 30px;
+
+}
+.divp4{
+  position: relative;
+  float: right;
+  width: 80%;
+  right: 10%;
+  padding: 2px;
+  margin: 30px;
+  background: linear-gradient(#536fb7,#14765f);
+}
+.divp5{
+  position: relative;
+  float: right;
+  width: 80%;
+  right: 10%;
+  padding: 2px;
+  margin: 30px;
+background: linear-gradient(#00a08b,#5bb497);
+}
+.divp6{
+  position: relative;
+  float: right;
+  width: 80%;
+  right: 10%;
+  padding: 2px;
+  margin: 30px;
+background: linear-gradient(#1B1918,#785133);
+}
+.divp7{
+  position: relative;
+  float: right;
+  width: 80%;
+  right: 10%;
+  padding: 2px;
+  margin: 30px;
+background: linear-gradient(#9F4949,#2C5E37); }
+}
+.divp8{
+  position: relative;
+  float: right;
+  width: 80%;
+  right: 10%;
+  padding: 2px;
+  margin: 30px;
+background: linear-gradient(#F9507E, #A00852 ); }
+.divp9{
+  position: relative;
+  float: right;
+  width: 80%;
+  right: 10%;
+  padding: 2px;
+  margin: 30px;
+background: linear-gradient(to right, white,#890C0C); }
+.divp10{
+  position: relative;
+  float: right;
+  width: 80%;
+  right: 10%;
+  padding: 2px;
+  margin: 30px;
+background: linear-gradient(black, white, #DA392F); }
+}
+.divf{
+  font-family: Georgia, serif;
+  position: relative;
+  background-color: black;
+  padding: 20px 20px
+}
+.Fin{color: snow;
+text-align: center;}
+
+
+
+
+@media screen and (min-width: 320px)and (max-width:1275px){
+
+  .telOnly{
+    display:block !important;
+
+  }
+
+  body{
+    margin: 0px;
+    margin-right: 0px;
+    padding: 0px;
+    padding-right: 0px;
+    font-family: "Gill Sans", sans-serif;
+  }
+  .OrdiOnly{display:none;}
+  .div1{
+    font-family: Georgia, serif;
+    position: relative;
+    background-color: black;
+    padding: 20px 20px;
+    height:200px;
+  }
+  #titrebar{
+    color: snow;
+    position: relative;
+    text-align: center;
+  }
+  #logo{
+  position:relative;
+  float:left;
+  top: -10px
+
+  }
+  #intro{
+    position: relative;
+    text-align: left;
+  }
+  .divf{
+    font-family: Georgia, serif;
+    position: relative;
+    background-color: black;
+    padding: 20px 20px;
+    height:200px;
+  }
+  .Fin{
+    color: snow;
+  text-align: center;}
+  h3{
+    color: snow;
+    text-align: center;
+  }
+
+
+  .divp1{
+    position: relative;
+    width:auto;
+    background: linear-gradient(white,#537FA4,#925893);
+      border: 10px solid gray;
+  }
+  .divp2{
+    position: relative;
+    background: linear-gradient(#E77C29,#E0B2A5);
+      border: 10px solid gray;
+    width: auto;
+  }
+
+  .divp3{
+    position: relative;
+    width: auto;
+      border: 10px solid gray;
+    background: linear-gradient(#8ec8ee,#b1d689);
+  }
+  .divp4{
+  position: relative;
+  background: linear-gradient(#536fb7,#14765f);
+    border: 10px solid gray;
+  width: auto;
+  }
+  .divp5{
+  position: relative ;
+  background: linear-gradient(#00a08b,#5bb497);
+  border: 10px solid gray;
+  width: auto;
+
+  }
+  .divp6{
+  position: relative ;
+  background: linear-gradient(#1B1918,#785133);
+  border: 10px solid gray;
+  width: auto;
+
+}
+.divp7{
+position: relative ;
+background: linear-gradient(#9F4949,#2C5E37 ,#292828 );
+border: 10px solid gray;
+width: auto;
+
+}
+.divp8{background: linear-gradient(#F9507E, #A00852 );
+  position: relative ;
+  border: 10px solid gray;
+  width: auto;
+}
+.dip9{
+  position: relative ;
+  border: 10px solid gray;
+  width: auto;
+background: linear-gradient(to right, white,#890C0C);
+
+}
+
+.dip10{
+  position: relative ;
+  border: 10px solid gray;
+  width: auto;
+background: linear-gradient(black, white, #DA392F);
+}
